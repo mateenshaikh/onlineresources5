@@ -8,7 +8,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - text: Proposal
+      - text: Proposals
         menu:
           - text: Documentation
             href: proposal.qmd
@@ -16,7 +16,7 @@ website:
             href: proposalchecklist.qmd
 
     right:
-      - text: Acknowledgement
+      - text: Acknowledgements
         menu:
         - href: acknowledgement.qmd
           text: Territorial
