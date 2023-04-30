@@ -1,0 +1,61 @@
+---
+title: "Proposal checklist"
+format:
+  html: default
+  pdf: default
+  docx: default
+format-links: [html,pdf,docx]
+---
+<!---
+checkboxes made from 
+https://tex.stackexchange.com/questions/310573/how- [ ]to- [ ]use- [ ]fillable- [ ]checkboxes- [ ]from- [ ]hyperref- [ ]with- [ ]lists
+--->
+
+
+```{r, echo=FALSE}
+checkboxsymbol=ifelse (knitr::is_html_output(),
+"\\CheckBox",
+"<input type='checkbox'>")
+```
+
+# Writing Quality
+
+
+
+- [ ] Grammatically correct
+- [ ] Sentences flow from one to the next
+- [ ] Each paragraph has an appropriate topic and concluding sentence
+- [ ] Sections are clearly laid out and content within sections remain relevant to that section
+
+# Style
+
+- [ ] Equations typeset, quantities explained
+- [ ] Figures/tables referenced in text and appropriately captioned
+
+# References
+
+- [ ] Equationsin-text citations formatted and used appropriately
+- [ ] bibliography formatted correctly and consistently
+
+
+
+
+
+# Formatting
+
+- [ ] Written in LaTeX (if appropriate).
+- [ ] 5--10 pages
+
+
+# Introduction
+
+- [ ] Begins with an appropriate overview and introduces the purpose of project
+- [ ] Introduces major concepts with the data 
+- [ ] Introduces major concepts of methodology
+
+
+# Lit review
+- [ ] All relevant methods explained only in this section
+- [ ] Appropriate level of math explained
+- [ ] Describes algorithmic details
+- [ ] Avoids implementation details

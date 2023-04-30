@@ -1,0 +1,44 @@
+project:
+  type: website
+
+website:
+  favicon: customlogo_resize.png
+  title: "MS"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - text: Proposal
+        menu:
+          - text: Documentation
+            href: proposal.qmd
+          - text: Checklist
+            href: proposalchecklist.qmd
+
+    right:
+      - text: Acknowledgement
+        menu:
+        - href: acknowledgement.qmd
+          text: Territorial
+        - href: citing.qmd
+          text: License/Citing
+      - icon: github
+        menu:
+          - text: webpage code
+            url:  https://github.com/mateenshaikh/onlineresources5
+          - text: mygithub
+            url: https://github.com/mateenshaikh
+
+format:
+  html:
+    theme:
+      light: yeti
+      dark: superhero
+    css: styles.css
+    toc: true
+    toc-depth: 3
+    code-fold: true
+
+
+editor: visual
+

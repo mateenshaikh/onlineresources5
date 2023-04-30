@@ -1,0 +1,30 @@
+---
+title: "Content Citation"
+---
+
+This website is built with Quarto Website using the bootswatch themes. Code for generating the site is is largely theirs and so please respect their licenses. Quarto uses GNU GPL v2 while the bootswatch theme uses the MIT license.
+
+Any code modifications that I make fall under the MIT license.
+
+As an academic, I value referencing and encourage students to practice it as often as possible.
+
+Therefore, the content of the website is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" alt="Creative Commons Licence" style="border-width:0"/></a><br /></a>
+
+using biblatex, here's an example of a citation
+
+    @online{proposalchecklist, 
+      author = {Mateen R Shaikh}, 
+      title= {Proposal Checklist}, 
+      year={2023}, %for year published,  not accessed
+      url={https://mateenshaikh.ca/proposalchecklist.html},
+      urldate={2023-04-30} %for date accessed 
+    }
+
+for plain bibtex, use @misc and add missing info into the note field
+
+    @misc{proposalchecklist, 
+      author = {Mateen R Shaikh}, 
+      title= {Proposal Checklist},
+      howpublished={https://mateenshaikh.ca/proposalchecklist.html},
+      note={Published 2023, Accessed 2023-04-30}
+    }

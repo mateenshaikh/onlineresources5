@@ -1,0 +1,163 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "MS",
+    "section": "",
+    "text": "Site is still being populated.\nSo far there’s information in the top menus on\n\nProposal documentation\nProposal checklist (incomplete)"
+  },
+  {
+    "objectID": "index.html#introduction-12-pages",
+    "href": "index.html#introduction-12-pages",
+    "title": "Starting a project/thesis",
+    "section": "2.1 Introduction (1–2 pages)",
+    "text": "2.1 Introduction (1–2 pages)\n\nIf the main goal is to analyze a particular data set, motivate the context (a few sentences) of how that data is generated and what kind of problem will be solved or what insight you wish to gain from it..\nIf the main goal is to analyze performance (e.g., for comparison) you need to motivate what the method(s) are designed to accomplish, and why there are different methods that exist in the first place.\n\n\n2.1.1 Data description\n\nIdentify/describe of all variables. You must identify the type of variable. You must also know what each variable is in the context of the problem; it can’t just be just another feature you use to train an algorithm.\nContinuous variables should indicate units\nOrdinal and nominal variables should at least identify the number of levels, and all levels if there are only a few and an example of a few if there are more a - If relevent to the investigation, an approximate distribution of each variable, using an appropriate method of summarizing. This may be extended to correlations"
+  },
+  {
+    "objectID": "index.html#backgroundlit-review4pages",
+    "href": "index.html#backgroundlit-review4pages",
+    "title": "Starting a project/thesis",
+    "section": "2.2 Background/Lit review(4+pages)",
+    "text": "2.2 Background/Lit review(4+pages)\nThe background/lit review will explain relevent methodological and algorithmic information to follow the next section (proposed methodology for the project/thesis). A bad habit of students is to rely on analogies of what’s being calculated. You must understand and justify all of this. This section is usually the longest section of the proposal for this reason.\nMethods should explain what any objective functions are, how optimization occurs, etc.. If a calculation (e.g., the objective function) is not the first, most intuitive calculation the brand new data science student would think of, you must justify why you use something less intuitive/more complicated to solve this problem.\nIf you elect to use a method, you are taking on the responsibility of explaining these choices at the Master’s level. If you can’t answer that, the topic/method is unsuitable for you and you must choose something you can understand and explain. Exceptions to this are rare. Many students underestimate how much they must understand the math behind algorithms to do a project, let alone a thesis.\nWhat you discuss in your lit review should be required for the methodology. One notable exception is if you are doing a thesis and plan to provide an alternative approach to something, it is still worthwhile to explain what your approach is alternative to, here. This is especially important if you’re performing some kind of comparison."
+  },
+  {
+    "objectID": "index.html#methodology-3-pages",
+    "href": "index.html#methodology-3-pages",
+    "title": "Lab resources",
+    "section": "1.3 Methodology (3+ pages)",
+    "text": "1.3 Methodology (3+ pages)\nAssuming this theoretical new Data Science student understands the literature review, they should be able to implement the methodology set out in the proposal with ideally no other material necessary. A good lit review will mean the methodology will be very concise, direct, and almost like a checklist of instructions.\nThe methods should include the specific implementation of the algorithm. E.g., a lit review will explain multiple regression with dummy variables, while the methodology will literally write out the equation of the regression variables listing each coefficient. Algorithmic details for your particular data set go here as well such as if you need special initial values for your algorithm, parameteres you’ll set in functions, or tuning parameters that you know ahead of time.\nSimulation studies will identify exactly which parameters of the simulation will be investigated, which values will be fixed and any corresponding assumptions.\nA thesis which develops new methods will have a much longer methodology section because nothing exists to solve the problem at hand so it’s developed here in this section, and the development is part of the instructions to the student. But because this is a proposal, you don’t actually perform the derivations here, you write a skeleton of how you plan to perform the derivation using elements of the lit review."
+  },
+  {
+    "objectID": "index.html#timeline",
+    "href": "index.html#timeline",
+    "title": "Starting a project/thesis",
+    "section": "2.4 Timeline",
+    "text": "2.4 Timeline\nTimelines should generally be performed backward. For thesis students, check the official documentation since there are some institutionally-dictated ones. For project students, this is slightly more flexible but the official documentation has the necessary deadlines. Include all of the pertinent deadlines in your proposal.\nDates should be set for the following (put them in chronological order but when you are brainstorming you’ll do this backward):\n\n2.4.1 Suggested deadlines (mandatory)\nPlan for at least the following deadlines. You will have many more deadlines, however.\n\nNov 15: implementation complete\nJan 15: first complete draft*\nFeb 15: second draft\nMar 15: last day to submit final draft to circulate to committee/second reader\nApr 15: presentation/defence"
+  },
+  {
+    "objectID": "index.html#bimonthly-progress-forms",
+    "href": "index.html#bimonthly-progress-forms",
+    "title": "Starting a project/thesis",
+    "section": "2.5 Bimonthly progress forms",
+    "text": "2.5 Bimonthly progress forms\nBoth project and thesis students will conduct supervisor-only progress reports every 2 months on approximately the following dates\n\nOct 01\nDec 01\nFeb 01\nMar 01\n\nAt these meetings, the supervisor evaluates if the student is making appropriate progress according to the timeline set out in the proposal. While infrequent setbacks can occur, the student is still generally expected to follow the timeline.\nThe results of progress reports are usually one of 3 or 4 categories:\n\nsatisfactory progress\nconcerning progress\nunsatisfactory progress\n\n\n2.5.1 Additional Thesis meetings\nThe thesis students will have supervisory committee meetings at least once a term. The committee will decide whether it should be the first, second, or third month of each term at the inaugural committee meeting."
+  },
+  {
+    "objectID": "index.html#student-agreements-for-supervision-dissolution",
+    "href": "index.html#student-agreements-for-supervision-dissolution",
+    "title": "Lab resources",
+    "section": "4.1 Student agreements for supervision dissolution",
+    "text": "4.1 Student agreements for supervision dissolution\nThe student will state in the proposal that they agree the thesis or project will be dissolved if any of the following happen:\n\nTwo consecutive progress reports are unacceptable\nAn academic integrity violation seems to have occurred"
+  },
+  {
+    "objectID": "index.html#expectations-for-writing",
+    "href": "index.html#expectations-for-writing",
+    "title": "Lab resources",
+    "section": "2.7 Expectations for writing",
+    "text": "2.7 Expectations for writing\nFor documents like the proposal and the final document, you’ll be given feedback. The feedback is usually in terms of content, or presentation/writing. Ideally you only need feedback for the former, and small amounts for the latter.\nIn practice, I find that some students underestimate the stanard of writing expected for the document that ends their Master’s degree and I will limit how muh time I spend giving feedback on this as you should be able to write well by the time you’re at the Master’s level.\nI would prefer if we budget for two revisions. If\nTypically, I will limit the time that I spend on a document. If there are so many issues that I do not make it through your document due to poor writing, you’ve lost your opportunity for me to give you feedback on the later contents of the document, which I may catch at a later revision which may set back your timeline.\nrevisions: at most 2 major revisions minor revisions final\nunacceptable grammar without noting major revisions counts as one of the revisions.\nProposal evaluation checklist for length checklist for topics checklist for style\nProject evaluation checklist for length checklist for topics checklist for style"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#data-description",
+    "href": "index.html#data-description",
+    "title": "Lab resources",
+    "section": "1.1 Data description",
+    "text": "1.1 Data description\n\nIdentify/describe of all variables. You must identify the type of variable. You must also know what each variable is in the context of the problem; it can’t just be just another feature you use to train an algorithm.\nContinuous variables should indicate units\nOrdinal and nominal variables should at least identify the number of levels, and all levels if there are only a few and an example of a few if there are more a - If relevent to the investigation, an approximate distribution of each variable, using an appropriate method of summarizing. This may be extended to correlations"
+  },
+  {
+    "objectID": "index.html#thesis",
+    "href": "index.html#thesis",
+    "title": "Lab resources",
+    "section": "5.1 Thesis",
+    "text": "5.1 Thesis\nThe thesis students will have supervisory committee meetings at least once a term. The committee will decide whether it should be the first, second, or third month of each term at the inaugural committee meeting."
+  },
+  {
+    "objectID": "index.html#methodology-2-pages",
+    "href": "index.html#methodology-2-pages",
+    "title": "Starting a project/thesis",
+    "section": "2.3 Methodology (2+ pages)",
+    "text": "2.3 Methodology (2+ pages)\nAssuming the theoretical new data science student understands the literature review, they should be able to implement the methodology set out in the proposal with ideally no other material necessary. A good lit review will mean the methodology will be very concise, direct, and almost like a checklist of instructions.\nThe methods should include the specific implementation of the algorithm. E.g., a lit review will explain multiple regression with dummy variables, while the methodology will literally write out the equation of the regression variables listing each coefficient for the particular data set. Algorithmic details for your particular data set go here as well such as if you need special initial values for your algorithm, parameteres you’ll set in functions, or tuning parameters that you know ahead of time.\nSimulation studies will identify exactly which parameters of the simulation will be investigated, which values will be fixed, and any corresponding assumptions.\nA thesis which develops new methods will have a much longer methodology section because nothing exists to solve the problem at hand, so you propopose to develop it in in this section, and the development is part of the instructions to the student. But because this is a proposal, you don’t actually perform the derivations here, you write a skeleton of how you plan to perform the derivation using elements of the lit review."
+  },
+  {
+    "objectID": "index.html#supervisory-dissolution",
+    "href": "index.html#supervisory-dissolution",
+    "title": "Starting a project/thesis",
+    "section": "2.6 Supervisory Dissolution",
+    "text": "2.6 Supervisory Dissolution\nThe student will state in the proposal that they agree the thesis or project will be dissolved if any of the following happen:\n\nTwo consecutive progress reports are unacceptable\nThree consecutive progress reports are concerning/unacceptable\nAn academic integrity violation is suspected by the supervisor and suspected by at least one other faculty member."
+  },
+  {
+    "objectID": "proposalchecklist.html",
+    "href": "proposalchecklist.html",
+    "title": "Proposal checklist",
+    "section": "",
+    "text": "Writing Quality\n\nGrammatically correct\nSentences flow from one to the next\nEach paragraph has an appropriate topic and concluding sentence\nSections are clearly laid out and content within sections remain relevant to that section\n\n\n\nStyle\n\nEquations typeset, quantities explained\nFigures/tables referenced in text and appropriately captioned\n\n\n\nReferences\n\nEquationsin-text citations formatted and used appropriately\nbibliography formatted correctly and consistently\n\n\n\nFormatting\n\nWritten in LaTeX (if appropriate).\n5–10 pages\n\n\n\nIntroduction\n\nBegins with an appropriate overview and introduces the purpose of project\nIntroduces major concepts with the data\nIntroduces major concepts of methodology\n\n\n\nLit review\n\nAll relevant methods explained only in this section\nAppropriate level of math explained\nDescribes algorithmic details\nAvoids implementation details"
+  },
+  {
+    "objectID": "acknowledgement.html",
+    "href": "acknowledgement.html",
+    "title": "Acknowledgement",
+    "section": "",
+    "text": "Born, raised, educated, trained and work on lands of the Neutral, Anishinaabeg, Haudenosaunee, Mississaugas, and Secwépemc. Benefits and achievements from time spent on treaty lands including Haldimand Tract of the Six Nations, the Dish with One Spoon Covenant, and unceded lands of Tk'emlúps."
+  },
+  {
+    "objectID": "proposal.html",
+    "href": "proposal.html",
+    "title": "Starting a project/thesis",
+    "section": "",
+    "text": "The official info about your proposal is available on moodle. The major items to think about during the proposal are:\n\nCommittee (thesis) or second reader (project)\nForms\nProposal Document"
+  },
+  {
+    "objectID": "proposal.html#introduction-12-pages",
+    "href": "proposal.html#introduction-12-pages",
+    "title": "Starting a project/thesis",
+    "section": "2.1 Introduction (1–2 pages)",
+    "text": "2.1 Introduction (1–2 pages)\n\nIf the main goal is to analyze a particular data set, motivate the context (a few sentences) of how that data is generated and what kind of problem will be solved or what insight you wish to gain from it..\nIf the main goal is to analyze performance (e.g., for comparison) you need to motivate what the method(s) are designed to accomplish, and why there are different methods that exist in the first place.\n\n\n2.1.1 Data description\n\nIdentify/describe of all variables. You must identify the type of variable. You must also know what each variable is in the context of the problem; it can’t just be just another feature you use to train an algorithm.\nContinuous variables should indicate units\nOrdinal and nominal variables should at least identify the number of levels, and all levels if there are only a few and an example of a few if there are more a - If relevent to the investigation, an approximate distribution of each variable, using an appropriate method of summarizing. This may be extended to correlations"
+  },
+  {
+    "objectID": "proposal.html#backgroundlit-review4pages",
+    "href": "proposal.html#backgroundlit-review4pages",
+    "title": "Starting a project/thesis",
+    "section": "2.2 Background/Lit review(4+pages)",
+    "text": "2.2 Background/Lit review(4+pages)\nThe background/lit review will explain relevent methodological and algorithmic information to follow the next section (proposed methodology for the project/thesis). A bad habit of students is to rely on analogies of what’s being calculated. You must understand and justify all of this. This section is usually the longest section of the proposal for this reason.\nMethods should explain what any objective functions are, how optimization occurs, etc.. If a calculation (e.g., the objective function) is not the first, most intuitive calculation the brand new data science student would think of, you must justify why you use something less intuitive/more complicated to solve this problem.\nIf you elect to use a method, you are taking on the responsibility of explaining these choices at the Master’s level. If you can’t answer that, the topic/method is unsuitable for you and you must choose something you can understand and explain. Exceptions to this are rare. Many students underestimate how much they must understand the math behind algorithms to do a project, let alone a thesis.\nWhat you discuss in your lit review should be required for the methodology. One notable exception is if you are doing a thesis and plan to provide an alternative approach to something, it is still worthwhile to explain what your approach is alternative to, here. This is especially important if you’re performing some kind of comparison."
+  },
+  {
+    "objectID": "proposal.html#methodology-2-pages",
+    "href": "proposal.html#methodology-2-pages",
+    "title": "Starting a project/thesis",
+    "section": "2.3 Methodology (2+ pages)",
+    "text": "2.3 Methodology (2+ pages)\nAssuming the theoretical new data science student understands the literature review, they should be able to implement the methodology set out in the proposal with ideally no other material necessary. A good lit review will mean the methodology will be very concise, direct, and almost like a checklist of instructions.\nThe methods should include the specific implementation of the algorithm. E.g., a lit review will explain multiple regression with dummy variables, while the methodology will literally write out the equation of the regression variables listing each coefficient for the particular data set. Algorithmic details for your particular data set go here as well such as if you need special initial values for your algorithm, parameteres you’ll set in functions, or tuning parameters that you know ahead of time.\nSimulation studies will identify exactly which parameters of the simulation will be investigated, which values will be fixed, and any corresponding assumptions.\nA thesis which develops new methods will have a much longer methodology section because nothing exists to solve the problem at hand, so you propopose to develop it in in this section, and the development is part of the instructions to the student. But because this is a proposal, you don’t actually perform the derivations here, you write a skeleton of how you plan to perform the derivation using elements of the lit review."
+  },
+  {
+    "objectID": "proposal.html#timeline",
+    "href": "proposal.html#timeline",
+    "title": "Starting a project/thesis",
+    "section": "2.4 Timeline",
+    "text": "2.4 Timeline\nTimelines should generally be performed backward. For thesis students, check the official documentation since there are some institutionally-dictated ones. For project students, this is slightly more flexible but the official documentation has the necessary deadlines. Include all of the pertinent deadlines in your proposal.\nDates should be set for the following (put them in chronological order but when you are brainstorming you’ll do this backward):\n\n2.4.1 Suggested deadlines (mandatory)\nPlan for at least the following deadlines. You will have many more deadlines, however.\n\nNov 15: implementation complete\nJan 15: first complete draft*\nFeb 15: second draft\nMar 15: last day to submit final draft to circulate to committee/second reader\nApr 15: presentation/defence"
+  },
+  {
+    "objectID": "proposal.html#bimonthly-progress-forms",
+    "href": "proposal.html#bimonthly-progress-forms",
+    "title": "Starting a project/thesis",
+    "section": "2.5 Bimonthly progress forms",
+    "text": "2.5 Bimonthly progress forms\nBoth project and thesis students will conduct supervisor-only progress reports every 2 months on approximately the following dates\n\nOct 01\nDec 01\nFeb 01\nMar 01\n\nAt these meetings, the supervisor evaluates if the student is making appropriate progress according to the timeline set out in the proposal. While infrequent setbacks can occur, the student is still generally expected to follow the timeline.\nThe results of progress reports are usually one of 3 or 4 categories:\n\nsatisfactory progress\nconcerning progress\nunsatisfactory progress\n\n\n2.5.1 Additional Thesis meetings\nThe thesis students will have supervisory committee meetings at least once a term. The committee will decide whether it should be the first, second, or third month of each term at the inaugural committee meeting."
+  },
+  {
+    "objectID": "proposal.html#supervisory-dissolution",
+    "href": "proposal.html#supervisory-dissolution",
+    "title": "Starting a project/thesis",
+    "section": "2.6 Supervisory Dissolution",
+    "text": "2.6 Supervisory Dissolution\nThe student will state in the proposal that they agree the thesis or project will be dissolved if any of the following happen:\n\nTwo consecutive progress reports are unacceptable\nThree consecutive progress reports are concerning/unacceptable\nAn academic integrity violation is suspected by the supervisor and suspected by at least one other faculty member."
+  },
+  {
+    "objectID": "citing.html",
+    "href": "citing.html",
+    "title": "Content Citation",
+    "section": "",
+    "text": "This website is built with Quarto Website using the bootswatch themes. Code for generating the site is is largely theirs and so please respect their licenses. Quarto uses GNU GPL v2 while the bootswatch theme uses the MIT license.\nAny code modifications that I make fall under the MIT license.\nAs an academic, I value referencing and encourage students to practice it as often as possible.\nTherefore, the content of the website is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.\nusing biblatex, here’s an example of a citation\n@online{proposalchecklist, \n  author = {Mateen R Shaikh}, \n  title= {Proposal Checklist}, \n  year={2023}, %for year published,  not accessed\n  url={https://mateenshaikh.ca/proposalchecklist.html},\n  urldate={2023-04-30} %for date accessed \n}\nfor plain bibtex, use @misc and add missing info into the note field\n@misc{proposalchecklist, \n  author = {Mateen R Shaikh}, \n  title= {Proposal Checklist},\n  howpublished={https://mateenshaikh.ca/proposalchecklist.html},\n  note={Published 2023, Accessed 2023-04-30}\n}"
+  }
+]
