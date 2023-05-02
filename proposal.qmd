@@ -14,7 +14,7 @@ format-links: [html,pdf]
 
 # Official info {.unnumbered}
 
-The official info about your proposal is available on moodle. The major items to think about during the proposal are:
+The official info formation  about your proposal for your Master's of Science in Data Science (MSc) is available on moodle. The major items to think about during the proposal are:
 
 -   Committee (thesis) or second reader (project)
 -   Forms
@@ -22,11 +22,54 @@ The official info about your proposal is available on moodle. The major items to
 
 # Preamble
 
-Your proposal should be written as if you are writing a project requirement for a good, but brand new data science student to execute for you. In the proposal, you will give an overview of the mathematics and algorithms that the student must learn through your document, with less relevent details available from original source documents. You should imagine that the student would need to learn the math as much as I require you to learn the math in courses, so the the mathematical details will be there in the final document. Implementation details should focus on what the algorithm does and uses very limited analogies/metaphors unless used as an introduction mechanism. You should not discuss how the functions or libraries work, the parameters you pass, etc..
+For project students, this is *your* proposal for your project, not a project that is designed by an instructor and assigned to you. It's up to you to come up with a project that's suitable after we've agreed that I'm an appropriate supervisor for that kind of project. I will approve whether the specifics are at an appropriate level for a MSc and you will tell me the criteria for which I will hold you accountable during the terms you are completing your project. Only rarely should you get stuck or need help because you've given sufficient thought and research to your proposal. As you have designed the project, you have have claimed to understood the terms and requirements (which has been approved).
 
-For project students, this is *your* proposal for your project, not a project that is assigned to you and designed by an instructor.
+A thesis involves novel work which will challenge the student to the point that need help and advice even with a well-designed proposal. It will have the requirements of the project plus the added challenge of creating/justifying something new to the field.
 
-I will approve whether it is appropriate for a Master's degree and you will tell me the criteria for which I will hold you accountable during the terms you are completing your project. Only rarely should you get stuck or need help because you've given sufficient thought and research to your proposal. As you have designed the project, you have have claimed to understood the terms and requirements (which has been approved).
+The expectations for the quality of writing and analysis are the same for both as both result in a MSc degree. That is, the document and content should be at a level that is suitable to share with other academics and you would be proud to publicly show is the result of your MSc degree. This applies to the quality of your writing as well as the analysis.
+
+## What your proposal should do
+Your proposal documents that you have done enough research and have the skills to perform the tasks that you are assigning yourself without needing additional help except in rare circumstances. Any possible changes in your plan should be anticipated and the contingency outlined. You should not have to figure out how to do anything after the proposal is written, because you've spelled it out in your proposal.
+
+If you plan things well, you will spend far less time at the computer coding than writing your proposal. I generally have not seen a project whose coding cannot be completed within a week or two if planned properly. You should *not* have a mindset of diving in and trying things to see what happens, or figuring it out as you go.
+
+Your proposal should be written as if you are writing a project requirement for a good, but brand new data science student to execute for you. In the proposal, you will give an overview of the mathematics and algorithms that the student must learn through your document, with less relevant details available from original source documents. You should imagine that the student would need to learn the math as much as I require you to learn the math in courses, and would be required to code it all from scratch using no libraries so you are responsible for the mathematical details that will have to go in the final document. 
+
+Implementation details should focus on what the algorithm does and uses very limited analogies/metaphors unless used as an introduction mechanism. You should not discuss how the functions or libraries work, the parameters you pass, etc.. 
+
+You are permitted to use any existing library if you could code the whole thing from scratch but you're choosing not to, to save time. At any point, I should be able to present you with a small version of the data set and you can show me using on paper and a calculator the the exact steps and calculations which lead to to the final answer that matches the library. 
+
+There are some exceptions to this, such as if an algorithm that's one small step of your project works faster but gives you the same answer for that one small step as a standard algorithm that you understand. In this case, you may use the faster algorithm without knowing the details. If, however, a major component of your project is to compare how the two algorithms perform, or show that they give different results, then you *are* responsible for knowing how the faster algorithm works. 
+
+An easy way to to know if you're doing things at an appropriate level is to assume you're doing everything with slow/standard algorithms that you understand. If you can complete your proposal and project that way, then you may make substitutions simply to make your project go faster or more accurate. If you cannot make a proposal/project without mentioning the faster or more accurate algorithm (e.g., because the more accurate algorithm is the point of the comparison) then you must understand the more accurate method as that's a key aspect of your project.
+
+
+
+
+It is absolutely unacceptable to simply use a library with default parameters: you should be able to justify why the default parameters are applicable in your scenario. There are some rare exceptions to this, 
+
+## SMART criteria
+In creating your proposal, you should keep in mind the SMART criteria:
+
+- Specific
+- Measurable
+- Achievable (for your time frame/skill/resources)
+- Relevant (to our program)
+- Timeline
+
+These are not 5 separate points/sections, but at some point in the proposal each of these things will be addressed and satisfied. Before writing your proposal, I strongly recommend you create a single (run on) sentence which satisfies all of the SMART criteria for your proposal, and then build your proposal from that.
+
+**Bad example:** This project will determine whether naïve Bayes performs better than a classification tree on large data sets.
+
+I would immediately respond with things like
+
+-   "better" defined and measured how? faster computationally? accuracy? f1 score?  mean squared error?
+- What kind of naïve Bayes and what kind of tree? Using greedy optimization like making full trees? If you prune, how much will you know to prune (assuming this isn't in the methodology). Which distribution will you use and why? Do you have any proof that the defaults in the code are appropriate for your data? 
+- et..
+
+**Better** This project will assess whether naïve Bayes performs better than a classification tree on three commonly used large data sets (data set 1, data set 2, and data set 3). Performance will be measured through mean squared error when employing 10-fold cross validation.
+
+
 
 # Proposal format
 
@@ -43,11 +86,11 @@ Your proposal should have the following document sections
 
 -   Identify/describe of all variables. You must identify the type of variable. You must also know what each variable is in the context of the problem; it can't just be just another feature you use to train an algorithm.
 -   Continuous variables should indicate units
--   Ordinal and nominal variables should at least identify the number of levels, and all levels if there are only a few and an example of a few if there are more a - If relevent to the investigation, an approximate distribution of each variable, using an appropriate method of summarizing. This may be extended to correlations
+-   Ordinal and nominal variables should at least identify the number of levels, and all levels if there are only a few and an example of a few if there are more a - If relevant to the investigation, an approximate distribution of each variable, using an appropriate method of summarizing. This may be extended to correlations
 
 ## Background/Lit review(4+pages)
 
-The background/lit review will explain relevent methodological and algorithmic information to follow the next section (proposed methodology for the project/thesis). A bad habit of students is to rely on analogies of what's being calculated. You must understand and justify all of this. This section is usually the longest section of the proposal for this reason.
+The background/lit review will explain relevant methodological and algorithmic information to follow the next section (proposed methodology for the project/thesis). A bad habit of students is to rely on analogies of what's being calculated. You must understand and justify all of this. This section is usually the longest section of the proposal for this reason.
 
 Methods should explain what any objective functions are, how optimization occurs, etc.. If a calculation (e.g., the objective function) is not the first, most intuitive calculation the brand new data science student would think of, you must justify why you use something less intuitive/more complicated to solve this problem.
 
@@ -59,11 +102,11 @@ What you discuss in your lit review should be required for the methodology. One 
 
 Assuming the theoretical new data science student understands the literature review, they should be able to implement the methodology set out in the proposal with ideally no other material necessary. A good lit review will mean the methodology will be very concise, direct, and almost like a checklist of instructions.
 
-The methods should include the specific implementation of the algorithm. E.g., a lit review will explain multiple regression with dummy variables, while the methodology will literally write out the equation of the regression variables listing each coefficient for the particular data set. Algorithmic details for your particular data set go here as well such as if you need special initial values for your algorithm, parameteres you'll set in functions, or tuning parameters that you know ahead of time.
+The methods should include the specific implementation of the algorithm. E.g., a lit review will explain multiple regression with dummy variables, while the methodology will literally write out the equation of the regression variables listing each coefficient for the particular data set. Algorithmic details for your particular data set go here as well such as if you need special initial values for your algorithm, parameters you'll set in functions, or tuning parameters that you know ahead of time.
 
 Simulation studies will identify exactly which parameters of the simulation will be investigated, which values will be fixed, and any corresponding assumptions.
 
-A thesis which develops *new* methods will have a much longer methodology section because nothing exists to solve the problem at hand, so you propopose to develop it in in this section, and the development is part of the instructions to the student. But because this is a proposal, you don't actually perform the derivations here, you write a skeleton of how you plan to perform the derivation using elements of the lit review.
+A thesis which develops *new* methods will have a much longer methodology section because nothing exists to solve the problem at hand, so you propose to develop it in in this section, and the development is part of the instructions to the student. But because this is a proposal, you don't actually perform the derivations here, you write a skeleton of how you plan to perform the derivation using elements of the lit review.
 
 ## Timeline
 
@@ -114,7 +157,7 @@ The student will state in the proposal that they agree the thesis or project wil
 
 For documents like the proposal and the final document, you'll be given feedback. The feedback is usually in terms of content, or presentation/writing. Ideally you only need feedback for the former, and small amounts for the latter.
 
-In practice, I find that some students underestimate the standard of writing expected for the document that ends their Master's degree and so the timeline I propose reflects that.
+In practice, I find that some students underestimate the standard of writing expected for the document that ends their MSc degree and so the timeline I propose reflects that.
 
 I will typically limit how much time I spend reading/annotating a document you submit (e.g., an hour for a proposal, three hours for final documents). If there are so many issues that I do not make it through your document due to poor writing, you've lost your opportunity for me to give you feedback on the later contents of the document, where I may catch additional major issues which themselves require additional revisions. If you require more revisions, they will simply occur *after* your original timeline, which means your degree completion will be set back by a semester (or more), and you will have responsible for paying the corresponding extension fee.
 

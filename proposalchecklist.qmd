@@ -7,17 +7,21 @@ format:
 format-links: [html,pdf,docx]
 ---
 
-
-
 ```{r, echo=FALSE}
 checkboxsymbol=ifelse (knitr::is_html_output(),
 "\\CheckBox",
 "<input type='checkbox'>")
 ```
 
+# SMART
+- [ ] Specific
+- [ ] Measurable
+- [ ] Achievable
+- [ ] Relevant
+- [ ] Timeline
+
+
 # Writing Quality
-
-
 
 - [ ] Grammatically correct
 - [ ] Sentences flow from one to the next
@@ -27,32 +31,32 @@ checkboxsymbol=ifelse (knitr::is_html_output(),
 # Style
 
 - [ ] Equations typeset, quantities explained
+- [ ] In-text content appropriately type-set
 - [ ] Figures/tables referenced in text and appropriately captioned
+- [ ] Appropriate use of sections, subsections, etc., and content respects corresponding structure
 
 # References
 
 - [ ] Equations and in-text citations formatted and used appropriately
 - [ ] bibliography formatted correctly and consistently
 
-
-
-
-
 # Formatting
 
 - [ ] Written in LaTeX (if appropriate).
 - [ ] 5--10 pages
 
-
 # Introduction
 
 - [ ] Begins with an appropriate overview and introduces the purpose of project
-- [ ] Introduces major concepts with the data 
+- [ ] Introduces major concepts with the data
 - [ ] Introduces major concepts of methodology
 
-
 # Lit review
+
 - [ ] All relevant methods explained only in this section
 - [ ] Appropriate level of math explained
 - [ ] Describes algorithmic details
 - [ ] Avoids implementation details
+
+# Other
+-  [ ] Clear use of the SMART criteria, namely specific, and measurable.
