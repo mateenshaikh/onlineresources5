@@ -6,10 +6,7 @@ format:
   docx: default
 format-links: [html,pdf,docx]
 ---
-<!---
-checkboxes made from 
-https://tex.stackexchange.com/questions/310573/how- [ ]to- [ ]use- [ ]fillable- [ ]checkboxes- [ ]from- [ ]hyperref- [ ]with- [ ]lists
---->
+
 
 
 ```{r, echo=FALSE}
@@ -34,7 +31,7 @@ checkboxsymbol=ifelse (knitr::is_html_output(),
 
 # References
 
-- [ ] Equationsin-text citations formatted and used appropriately
+- [ ] Equations and in-text citations formatted and used appropriately
 - [ ] bibliography formatted correctly and consistently
 
 

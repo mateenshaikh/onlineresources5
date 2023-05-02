@@ -1,10 +1,31 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n\nCode\n1 + 1\n\n\n[1] 2"
+  },
+  {
     "objectID": "acknowledgement.html",
     "href": "acknowledgement.html",
     "title": "Acknowledgement",
     "section": "",
     "text": "Born, raised, educated, trained and work on lands of the Neutral, Anishinaabeg, Haudenosaunee, Mississaugas, and Secwépemc. Benefits and achievements from time spent on treaty lands including Haldimand Tract of the Six Nations, the Dish with One Spoon Covenant, and unceded lands of Tk'emlúps."
+  },
+  {
+    "objectID": "citing.html",
+    "href": "citing.html",
+    "title": "Content Citation",
+    "section": "",
+    "text": "This website is built with Quarto Website using the bootswatch themes. Code for generating the site is is largely theirs and so please respect their licenses. Quarto uses GNU GPL v2 while the bootswatch theme uses the MIT license.\nAny code modifications that I make fall under the MIT license.\nAs an academic, I value referencing and encourage students to practice it as often as possible.\nTherefore, the content of the website is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.\nusing biblatex, here’s an example of a citation\n@online{proposalchecklist, \n  author = {Mateen R Shaikh}, \n  title= {Proposal Checklist}, \n  year={2023}, %for year published,  not accessed\n  url={https://mateenshaikh.ca/proposalchecklist.html},\n  urldate={2023-04-30} %for date accessed \n}\nfor plain bibtex, use @misc and add missing info into the note field\n@misc{proposalchecklist, \n  author = {Mateen R Shaikh}, \n  title= {Proposal Checklist},\n  howpublished={https://mateenshaikh.ca/proposalchecklist.html},\n  note={Published 2023, Accessed 2023-04-30}\n}"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "MS",
+    "section": "",
+    "text": "Site is still being populated.\nSo far there’s information in the top menus on\n\nProposal documentation\nProposal checklist (incomplete)"
   },
   {
     "objectID": "proposal.html",
@@ -56,31 +77,10 @@
     "text": "2.6 Supervisory Dissolution\nThe student will state in the proposal that they agree the thesis or project will be dissolved if any of the following happen:\n\nTwo consecutive progress reports are unacceptable\nThree consecutive progress reports are concerning/unacceptable\nAn academic integrity violation is suspected by the supervisor and suspected by at least one other faculty member."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "MS",
-    "section": "",
-    "text": "Site is still being populated.\nSo far there’s information in the top menus on\n\nProposal documentation\nProposal checklist (incomplete)"
-  },
-  {
     "objectID": "proposalchecklist.html",
     "href": "proposalchecklist.html",
     "title": "Proposal checklist",
     "section": "",
-    "text": "Writing Quality\n\nGrammatically correct\nSentences flow from one to the next\nEach paragraph has an appropriate topic and concluding sentence\nSections are clearly laid out and content within sections remain relevant to that section\n\n\n\nStyle\n\nEquations typeset, quantities explained\nFigures/tables referenced in text and appropriately captioned\n\n\n\nReferences\n\nEquationsin-text citations formatted and used appropriately\nbibliography formatted correctly and consistently\n\n\n\nFormatting\n\nWritten in LaTeX (if appropriate).\n5–10 pages\n\n\n\nIntroduction\n\nBegins with an appropriate overview and introduces the purpose of project\nIntroduces major concepts with the data\nIntroduces major concepts of methodology\n\n\n\nLit review\n\nAll relevant methods explained only in this section\nAppropriate level of math explained\nDescribes algorithmic details\nAvoids implementation details"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n\nCode\n1 + 1\n\n\n[1] 2"
-  },
-  {
-    "objectID": "citing.html",
-    "href": "citing.html",
-    "title": "Content Citation",
-    "section": "",
-    "text": "This website is built with Quarto Website using the bootswatch themes. Code for generating the site is is largely theirs and so please respect their licenses. Quarto uses GNU GPL v2 while the bootswatch theme uses the MIT license.\nAny code modifications that I make fall under the MIT license.\nAs an academic, I value referencing and encourage students to practice it as often as possible.\nTherefore, the content of the website is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.\nusing biblatex, here’s an example of a citation\n@online{proposalchecklist, \n  author = {Mateen R Shaikh}, \n  title= {Proposal Checklist}, \n  year={2023}, %for year published,  not accessed\n  url={https://mateenshaikh.ca/proposalchecklist.html},\n  urldate={2023-04-30} %for date accessed \n}\nfor plain bibtex, use @misc and add missing info into the note field\n@misc{proposalchecklist, \n  author = {Mateen R Shaikh}, \n  title= {Proposal Checklist},\n  howpublished={https://mateenshaikh.ca/proposalchecklist.html},\n  note={Published 2023, Accessed 2023-04-30}\n}"
+    "text": "Writing Quality\n\nGrammatically correct\nSentences flow from one to the next\nEach paragraph has an appropriate topic and concluding sentence\nSections are clearly laid out and content within sections remain relevant to that section\n\n\n\nStyle\n\nEquations typeset, quantities explained\nFigures/tables referenced in text and appropriately captioned\n\n\n\nReferences\n\nEquations and in-text citations formatted and used appropriately\nbibliography formatted correctly and consistently\n\n\n\nFormatting\n\nWritten in LaTeX (if appropriate).\n5–10 pages\n\n\n\nIntroduction\n\nBegins with an appropriate overview and introduces the purpose of project\nIntroduces major concepts with the data\nIntroduces major concepts of methodology\n\n\n\nLit review\n\nAll relevant methods explained only in this section\nAppropriate level of math explained\nDescribes algorithmic details\nAvoids implementation details"
   }
 ]
