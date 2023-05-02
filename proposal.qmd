@@ -118,12 +118,11 @@ In practice, I find that some students underestimate the standard of writing exp
 
 I will typically limit how much time I spend reading/annotating a document you submit (e.g., an hour for a proposal, three hours for final documents). If there are so many issues that I do not make it through your document due to poor writing, you've lost your opportunity for me to give you feedback on the later contents of the document, where I may catch additional major issues which themselves require additional revisions. If you require more revisions, they will simply occur *after* your original timeline, which means your degree completion will be set back by a semester (or more), and you will have responsible for paying the corresponding extension fee.
 
-
 # Proposal evaluation criteria
 
 While not a binding document, you're encouraged to look at the following (non-exhaustive) list of things that I look for when evaluating a proposal or final project or thesis.
 
-
+```{=html}
 <!--
 revisions: at most 2 major revisions minor revisions final
 
@@ -133,3 +132,4 @@ Proposal evaluation checklist for length checklist for topics checklist for styl
 
 Project evaluation checklist for length checklist for topics checklist for style
 -->
+```
