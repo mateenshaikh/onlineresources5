@@ -11,7 +11,15 @@
     "href": "proposal.html",
     "title": "Starting a project/thesis",
     "section": "",
+<<<<<<< HEAD
     "text": "The official information about your proposal for your Master’s of Science in Data Science (MSc) is available on moodle. The major items to think about during the proposal are:\n\nCommittee (thesis) or second reader (project)\nForms\nProposal Document"
+=======
+<<<<<<< HEAD
+    "text": "The official information formation about your proposal for your Master’s of Science in Data Science (MSc) is available on moodle. The major items to think about during the proposal are:\n\nCommittee (thesis) or second reader (project)\nForms\nProposal Document"
+=======
+    "text": "The official info formation about your proposal for your Master’s of Science in Data Science (MSc) is available on moodle. The major items to think about during the proposal are:\n\nCommittee (thesis) or second reader (project)\nForms\nProposal Document"
+>>>>>>> 3463fa559013abc9223c9eb6e7fbf70cbfc96d8d
+>>>>>>> fc4e534a6fa6716e82f722e6a9bdf6428929a750
   },
   {
     "objectID": "proposal.html#goal",
