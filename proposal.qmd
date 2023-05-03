@@ -14,7 +14,7 @@ format-links: [html,pdf]
 
 # Official info {.unnumbered}
 
-The official info formation about your proposal for your Master's of Science in Data Science (MSc) is available on moodle. The major items to think about during the proposal are:
+The official information formation about your proposal for your Master's of Science in Data Science (MSc) is available on moodle. The major items to think about during the proposal are:
 
 -   Committee (thesis) or second reader (project)
 -   Forms
@@ -26,15 +26,15 @@ For project students, this is *your* proposal for your project, not a project th
 
 A thesis involves novel work which will challenge the student to the point that they need help and advice even with a well-designed proposal. It will have the requirements of the project plus the added challenge of creating/justifying something new to the field.
 
+```{=html}
 <!--
 The expectations for the quality of writing and analysis are the same for both as both result in a MSc degree. That is, the document and content should be at a level that is suitable to share with other academics and you would be proud to publicly show is the result of your MSc degree. This applies to the quality of your writing as well as the analysis.-->
-
-To not stifle creativity, there are no official criteria for a project but generally, a project must convey and describe an appropriate theoretical appropriate data science method, or uncover interesting insights from non-trivial data. This would disquify some projects that are more of a coding project, such as coding an AI to automatically perform respond to emails, even though it heavily uses machine learning. An acceptable variation of this is if your project is to learn about natural language processing, and create your own method of training and testing a machine learning algorithm. 
-
+```
+To not stifle creativity, there are no official criteria for a project but generally, a project must convey and describe an appropriate theoretical appropriate data science method, or uncover interesting insights from non-trivial data. This would disquify some projects that are more of a coding project, such as coding an AI to automatically perform respond to emails, even though it heavily uses machine learning. An acceptable variation of this is if your project is to learn about natural language processing, and create your own method of training and testing a machine learning algorithm.
 
 ## Goal
 
-Your proposal documents that you have done enough research and have the skills to perform the tasks that you are assigning yourself without needing additional help except in rare circumstances. Any possible changes in your plan should be anticipated and the contingency outlined. You should not have to figure out how to do anything after the proposal is written because you've planned well. 
+Your proposal documents that you have done enough research and have the skills to perform the tasks that you are assigning yourself without needing additional help except in rare circumstances. Any possible changes in your plan should be anticipated and the contingency outlined. You should not have to figure out how to do anything after the proposal is written because you've planned well.
 
 If you plan things well, you will spend far less time at the computer coding than writing your proposal. I generally have not seen a project whose coding cannot be completed within a week or two if planned properly. You should *not* have a mindset of diving in and trying things to see what happens, or figuring it out as you go.
 
@@ -76,21 +76,19 @@ I would respond with things like
 
 **Better** This project will assess whether naïve Bayes performs better than a classification tree on three commonly used large data sets (data set 1, data set 2, and data set 3). Performance will be measured through mean squared error when employing 10-fold cross validation.
 
-
 In this example, it wasn't **specific** or **measurable**. In your proposal, you should spell out both of these things to the point that the theoretical data science student would not have to think about how to do this, because there is a clear instruction/decision/choice made for this in the proposal.
 
 ### Example
 
 **Bad example:** This project will create a new machine learning library that will analyze one million incoming emails, and their corresponding responses, to try generating an AI that can automate responses.
 
-My biggest issue with this is whether this project can convey knowledge at a Master's level. Despite being an interesting project, it could be inadequate as the MSc final project if it remains vague about what the theoretical aspect that the student will convey. The second issue I have is how would you know whether the responses are correct? 
+My biggest issue with this is whether this project can convey knowledge at a Master's level. Despite being an interesting project, it could be inadequate as the MSc final project if it remains vague about what the theoretical aspect that the student will convey. The second issue I have is how would you know whether the responses are correct?
 
-**Better:** This project will use an existing library to analyze emails to determine which require responses. Of the ones that require responses, the  sentiment analysis will analyze incoming emails, and their responses, to try generating an AI that can automate responses.
+**Better:** This project will use an existing library to analyze emails to determine which require responses. Of the ones that require responses, the sentiment analysis will analyze incoming emails, and their responses, to try generating an AI that can automate responses.
 
 In this example, the project was not **achievable**, may not have been **relevant**, and was not **measurable**.
 
 As a side note: I would generally not be involved with this as this is not my area. I can chat with you to help you find a good supervisor that is in this area, though.
-
 
 # Proposal format
 
@@ -115,7 +113,7 @@ Your introduction should be (1--2 pages).
 
 Your background/lit review should be 4+pages.
 
-The background/lit review will explain relevant methodological and algorithmic information to follow the next section (proposed methodology for the project/thesis). A bad habit of students is to rely on analogies of what's being calculated. You must understand and justify all of this. This section is usually the longest section of the proposal for this reason. Most of your citations should be from journals, though some websites and documentation are acceptable. 
+The background/lit review will explain relevant methodological and algorithmic information to follow the next section (proposed methodology for the project/thesis). A bad habit of students is to rely on analogies of what's being calculated. You must understand and justify all of this. This section is usually the longest section of the proposal for this reason. Most of your citations should be from journals, though some websites and documentation are acceptable.
 
 Methods should explain what any objective functions are, how optimization occurs, etc.. If a calculation (e.g., the objective function) is not the first, most intuitive calculation the brand new data science student would think of, you must justify why you use something less intuitive/more complicated to solve this problem.
 
@@ -123,7 +121,7 @@ If you elect to use a method, you are taking on the responsibility of explaining
 
 What you discuss in your lit review should be required for the methodology. One notable exception is if you are doing a thesis and plan to provide an alternative approach to something, it is still worthwhile to explain what your approach is alternative to, here. This is especially important if you're performing some kind of comparison.
 
-## Methodology 
+## Methodology
 
 Your proposed methods section should be 2+ pages.
 
