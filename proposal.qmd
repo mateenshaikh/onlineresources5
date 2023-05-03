@@ -14,7 +14,7 @@ format-links: [html,pdf]
 
 # Official info {.unnumbered}
 
-The official information about your proposal for your Master's of Science in Data Science (MSc) is available on moodle. The major items to think about during the proposal are:
+The official information  about your proposal for your Master's of Science in Data Science (MSc) is available on moodle. The major items to think about during the proposal are:
 
 -   Committee (thesis) or second reader (project)
 -   Forms
