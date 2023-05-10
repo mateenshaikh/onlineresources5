@@ -16,7 +16,7 @@ sidebar:
 
 Site is still being populated.
 
-So far there's information in the top menus on
+The website will populate with documentation and suggestions for projects and theses for Master's students, and may become a general repository for additional academic work. So far there's information in the top menus on
 
 -   Proposal documentation
 -   Proposal checklist (incomplete)
