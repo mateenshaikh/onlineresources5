@@ -1,0 +1,113 @@
+---
+title: "Proposal Format"
+sidebar:
+  style: "docked"
+number-sections: true
+number-depth: 3
+toc: true
+#toc-expand: true
+format:
+  html: default
+  pdf: default
+format-links: [html,pdf]
+---
+
+# Proposal format {.unnumbered}
+
+After several issues, I now require all projects and theses to be written in LaTex.
+
+Your proposal should have the following document sections
+
+# Introduction
+
+Your introduction should be (1--2 pages).
+
+-   If the main goal is to analyze a particular data set, motivate the context (a few sentences) of how that data is generated and what kind of problem will be solved or what insight you wish to gain from it..
+-   If the main goal is to analyze performance (e.g., for comparison) you need to motivate what the method(s) are designed to accomplish, and why there are different methods that exist in the first place.
+
+# Data description
+
+-   Identify/describe of all variables. You must identify the type of variable. You must also know what each variable is in the context of the problem; it can't just be just another feature you use to train an algorithm.
+-   Continuous variables should indicate units
+-   Ordinal and nominal variables should at least identify the number of levels, and all levels if there are only a few and an example of a few if there are more a - If relevant to the investigation, an approximate distribution of each variable, using an appropriate method of summarizing. This may be extended to correlations
+
+# Lit review
+
+Your background/lit review should be 4+pages.
+
+The background/lit review will explain relevant methodological and algorithmic information to follow the next section (proposed methodology for the project/thesis). A bad habit of students is to rely on analogies of what's being calculated. You must understand and justify all of this. This section is usually the longest section of the proposal for this reason. Most of your citations should be from journals, though some websites and documentation are acceptable.
+
+Methods should explain what any objective functions are, how optimization occurs, etc.. If a calculation (e.g., the objective function) is not the first, most intuitive calculation the brand new data science student would think of, you must justify why you use something less intuitive/more complicated to solve this problem.
+
+If you elect to use a method, you are taking on the responsibility of explaining these choices at the Master's level. If you can't answer that, the topic/method is unsuitable for you and you must choose something you can understand and explain. Exceptions to this are rare. Many students underestimate how much they must understand the *math* behind algorithms to do a project, let alone a thesis.
+
+What you discuss in your lit review should be required for the methodology. One notable exception is if you are doing a thesis and plan to provide an alternative approach to something, it is still worthwhile to explain what your approach is alternative to, here. This is especially important if you're performing some kind of comparison.
+
+# Methodology
+
+Your proposed methods section should be 2+ pages.
+
+Assuming the theoretical new data science student understands the literature review, they should be able to implement the methodology set out in the proposal with ideally no other material necessary. A good lit review will mean the methodology will be very concise, direct, and almost like a checklist of instructions.
+
+The methods should include the specific implementation of the algorithm. E.g., a lit review will explain multiple regression with dummy variables, while the methodology will literally write out the equation of the regression variables listing each coefficient for the particular data set. Algorithmic details for your particular data set go here as well such as if you need special initial values for your algorithm, parameters you'll set in functions, or tuning parameters that you know ahead of time.
+
+Simulation studies will identify exactly which parameters of the simulation will be investigated, which values will be fixed, and any corresponding assumptions.
+
+A thesis which develops *new* methods will have a much longer methodology section because nothing exists to solve the problem at hand, so you propose to develop it in in this section, and the development is part of the instructions to the student. But because this is a proposal, you don't actually perform the derivations here, you write a skeleton of how you plan to perform the derivation using elements of the lit review.
+
+# Timeline
+
+Timelines should generally be performed backward. For thesis students, check the official documentation since there are some institutionally-dictated ones. For project students, this is slightly more flexible but the official documentation has the necessary deadlines. Include all of the pertinent deadlines in your proposal.
+
+Dates should be set for the following (put them in chronological order but when you are brainstorming you'll do this backward):
+
+# Deadlines
+
+Plan for at least the following deadlines. You will have *many* more deadlines, however.
+
+-   Nov 15: implementation complete
+-   Jan 15: first complete draft\*
+-   Feb 15: second draft
+-   Mar 15: last day to submit final draft to circulate to committee/second reader
+-   Apr 15: presentation/defence
+
+In addition to the above, prior to the implementation, you should state your own milestones for the implementation leading to the completion above. I will leave this to you but hold you accountable to it.
+
+# Progress Forms
+
+Both project and thesis students will conduct supervisor-only progress reports every 2 months on approximately the following dates
+
+-   Oct 01
+-   Dec 01
+-   Feb 01
+-   Mar 01
+
+At these meetings, the supervisor evaluates if the student is making appropriate progress according to the timeline set out in the proposal. While infrequent setbacks can occur, the student is still generally expected to follow the timeline.
+
+The results of progress reports are usually one of 3 or 4 categories:
+
+-   satisfactory progress
+-   concerning progress
+-   unsatisfactory progress
+
+# Additional Thesis meetings
+
+The thesis students will have supervisory committee meetings at least once a term. The committee will decide whether it should be the first, second, or third month of each term at the inaugural committee meeting.
+
+# Supervisory Dissolution
+
+The student will state as an additional section in their proposal that they agree the thesis or project will be dissolved if any of the following happen:
+
+-   Two consecutive progress reports are unacceptable
+-   Three consecutive progress reports are concerning/unacceptable
+-   An academic integrity violation is suspected by the supervisor and suspected by at least one other faculty member.
+
+# Outcomes of project
+
+I like the idea of there being clear expectations of what happens to the final result of the project. If the project is being published (e.g., an R package, or a journal publication) what is the order of authorship, who owns data, etc..
+
+My personal approach is that students are first author if they've done the writing. If I have to heavily edit or rewrite your thesis to make it acceptable quality for publication, you lose the prestigious status of first-author, which I would have preferred you to have. I also may not have the time or interest to do that so it may simply not be published at all and what could have doubly benefited you has been wasted. This is another reason the quality of writing is important.
+
+This section does not have to be in the proposal, but I like it here so that we know it's officially documented and signed off on.
+
+
