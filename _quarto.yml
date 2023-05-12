@@ -13,6 +13,8 @@ website:
         menu:
           - text: Documentation
             href: proposal.qmd
+          - text: Format/Structure
+            href: proposalformat.qmd
           - text: Checklist
             href: proposalchecklist.qmd
     right:
