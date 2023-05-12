@@ -92,11 +92,7 @@ In this example, the project was not **achievable**, may not have been **relevan
 
 As a side note: I would generally not be involved with this as this is not my area. I can chat with you to help you find a good supervisor that is in this area, though.
 
-# Proposal format
 
-After several issues, I now require all projects and theses to be written in LaTex.
-
-Your proposal should have the following document sections
 
 
 # Timeline
