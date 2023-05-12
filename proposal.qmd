@@ -156,11 +156,20 @@ For documents like the proposal and the final document, you'll be given feedback
 
 In practice, I find that some students underestimate the standard of writing expected for the document that ends their MSc degree and so the timeline I propose reflects that.
 
-I will typically limit how much time I spend reading/annotating a document you submit (e.g., an hour for a proposal, three hours for final documents). If there are so many issues that I do not make it through your document due to poor writing, you've lost your opportunity for me to give you feedback on the later contents of the document, where I may catch additional major issues which themselves require additional revisions. If you require more revisions, they will simply occur *after* your original timeline, which means your degree completion will be set back by a semester (or more), and you will have responsible for paying the corresponding extension fee.
+I will typically limit how much time I spend reading/annotating a document you submit (e.g., an hour for a proposal, three hours for final documents). If there are so many issues that I do not make it through your document due to poor writing, you've lost your opportunity for me to give you feedback on the later contents of the document, where I may catch additional major issues which themselves require additional revisions. If you require more revisions, they will simply occur *after* your original timeline, which means your degree completion will be set back by a term (or more), and you will be responsible for paying the corresponding extension fee.
+
+## Resources
+
+If you believe there is a difference in how you write and the quality of writing in technical documents like academic journals, you'll be expected to change your writing style to match. If you anticipate this is going to be a problem, begin working on this early, such as in your classes for assignments and projects, as well as your seminar reports. These are all excellent opportunities to obtain feedback about your writing (even if there's not a mark associated it for that particular document). Instructors likely don't have the time to edit your documents for you, but likely will be happy to give suggestions on how to improve your writing. It is up to the instructor's discretion on how much (if any) weight to assign to writing quality in courses and seminar. Please do not make the logical fallacy of concluding that a good mark in an assignment (not expressly meant to evaluate your writing quality) implies that level of writing would be appropriate for your final project/thesis. 
+The institution has a writing centre that will help you in improving your writing. I have observed students improve tremendously over several sessions when the session is approached correctly. The writing centre can teach you how to write better, which requires a commitment to learn how to critically appraise your own writing with their guidance to find where you need improvement and fixing your own writing. Treat the staff as educators that can teach you the skills you need to help you write better depending on your particular needs. Do not expect them to be editors that simply fix your writing for you. 
+
+The one caveat I give is that they become *very* busy in the winter term when most students are approaching their deadlines. I would strongly suggest that your final project is not when you seek them, but much earlier than that such as during your coursework if you receive feedback that the quality of writing needs improvement. 
+
+If I suggest from your proposal that you would benefit from the writing centre, I expect you to learn from any feedback I give you, and seriously consider making an appointment with the writing centre to rectify writing issues so that you are not held back a semester. 
 
 # Proposal evaluation criteria
 
-While not a binding document, you're encouraged to look at the following (non-exhaustive) list of things that I look for when evaluating a proposal or final project or thesis.
+While not a binding document, you're encouraged to look (in the menu) at the proposal checklist   of things that I look for when evaluating a proposal or final project or thesis.
 
 ```{=html}
 <!--
