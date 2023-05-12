@@ -11,7 +11,7 @@ website:
         text: Home
       - text: Proposals
         menu:
-          - text: Documentation
+          - text: Overview
             href: proposal.qmd
           - text: Proposal Document Structure
             href: proposalformat.qmd
