@@ -15,7 +15,7 @@ checkboxsymbol=ifelse (knitr::is_html_output(),
 
 # SMART
 
--   [ ] Specific
+-   [ ] Specific and Reproducible
 -   [ ] Measurable
 -   [ ] Achievable
 -   [ ] Relevant
@@ -58,6 +58,29 @@ checkboxsymbol=ifelse (knitr::is_html_output(),
 -   [ ] Describes algorithmic details
 -   [ ] Avoids implementation details
 
-# Other
+# Methodology
 
--   [ ] Clear use of the SMART criteria, namely specific, and measurable.
+-   [ ] Clearly outlines all steps in the proposal
+-   [ ] Has plans for appropriate contingencies in analysis 
+-   [ ] Likely that two other students could read the document, follow it, and come up with the same results in a month.
+-   [ ] Any required resources are outlined (e.g., access to certain data, computing, etc.)
+
+
+# Timeline
+
+-   [ ] At least 4 appropriate checkpoints
+-   [ ] Timeline leaves at least 1 month per draft
+
+
+# Undesirable considerations
+
+-   [ ] Statement acknowledging ending supervisory relationship for unacceptable progress
+-   [ ] Statement acknowledging ending supervisory relationship for  suspected integrity violation such as plagiarism
+-   [ ] Statement acknowledging that poor quality work/writing will be returned, delaying timelines
+
+# Anticipated outcomes and appropriate authorship
+-   [ ] For thesis, authorship, intended type of journal
+-   [ ] For software, where it's disseminated
+
+
+

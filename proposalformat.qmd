@@ -14,7 +14,7 @@ format-links: [html,pdf]
 
 # Proposal format {.unnumbered}
 
-After several issues, I now require all projects and theses to be written in LaTex.
+After several issues, I now require all projects and theses to be written in LaTeX. A not-yet finished example of the proposal is available [here](https://github.com/mateenshaikh/trumscdscproposaltemplate "github proposal template").
 
 Your proposal should have the following document sections
 
@@ -109,5 +109,3 @@ I like the idea of there being clear expectations of what happens to the final r
 My personal approach is that students are first author if they've done the writing. If I have to heavily edit or rewrite your thesis to make it acceptable quality for publication, you lose the prestigious status of first-author, which I would have preferred you to have. I also may not have the time or interest to do that so it may simply not be published at all and what could have doubly benefited you has been wasted. This is another reason the quality of writing is important.
 
 This section does not have to be in the proposal, but I like it here so that we know it's officially documented and signed off on.
-
-

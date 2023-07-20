@@ -22,6 +22,8 @@ The official information about your proposal for your Master's of Science in Dat
 
 If there's ever a discrepency between the information here and what's on moodle, assume the moodle one is more correct.
 
+
+
 # Preamble
 
 For project students, this is *your* proposal for your project, not a project that is designed by an instructor and assigned to you. It's up to you to come up with a project that's suitable after we've agreed that I'm an appropriate supervisor for that kind of project. I will approve whether the specifics are at an appropriate level for a MSc and you will tell me the criteria for which I will hold you accountable during the terms you are completing your project. Only rarely should you get stuck or need help because you've given sufficient thought and research to your proposal. <!--As you have designed the project, you have have claimed to understand the terms and requirements (which has been approved).-->
@@ -36,13 +38,18 @@ To not stifle creativity, there are no official criteria for a project but gener
 
 ## Goal
 
-Your proposal documents that you have done enough research and have the skills to perform the tasks that you are assigning yourself without needing additional help except in rare circumstances. Any possible changes in your plan should be anticipated and the contingency outlined. You should not have to figure out how to do anything after the proposal is written because you've planned well.
+Your proposal documents that you have done enough research and have the skills to perform the tasks that you are assigning yourself without needing additional help except in rare circumstances. Any possible changes in your plan should be anticipated and the contingency appropriately outlined. You should not have to figure out how to do anything after the proposal is written because you've planned well.
 
-If you plan things well, you will spend far less time at the computer coding than writing your proposal. I generally have not seen a project whose coding cannot be completed within a week or two if planned properly. You should *not* have a mindset of diving in and trying things to see what happens, or figuring it out as you go.
+If you plan things well, you will not spend very much time at the computer coding the project itself. By that, I mean a well-planned proposal should be able to be coded up within a week, perhaps two. You should *not* have a mindset of diving in and trying things to see what happens, or figuring it out as you go. If you have such plans, then you haven't actually proposed your project, you've proposed a proposal.
 
-Your proposal should be written as if you are writing a project requirement for a good, but brand new data science student to execute for you, like for an independent study project of a course. In the proposal, you will give an overview of the mathematics and algorithms that the student must learn through your document<!--, with less relevant details available from original source documents-->. You should imagine that the student would need to learn the math as much as I require you to learn the math in courses, and would be required to code it all from scratch using no libraries so you are responsible for the mathematical details that will have to go in the final document. This also disqualifies some interesting projects as it can lack a necessary theoretical component.
 
-Implementation details should focus on what the algorithm does and uses very limited analogies/metaphors unless used as an introduction mechanism. You should not discuss how the functions or libraries work, the parameters you pass, etc..
+
+I strongly recommend you think of this as writing a set of background knowledge, and then a concise set of instructions for two other MSc DSc students as their part-time job. Each of these hypothetical students should be able to follow your proposal independently of each other, with no real questions on what to do, and come back to you with the same set of results. 
+
+The proposal's literature review will give an overview of the mathematics and algorithms that the student must learn through your document<!--, with less relevant details available from original source documents-->. You should imagine that the student would need to learn the math as much as I require you to learn the math in courses, and would be required to code it all from scratch using no libraries so you are responsible for the mathematical details that will have to go in the final document. This also disqualifies some interesting projects as it can lack a necessary theoretical component. In your lit review, implementation details should focus on what the algorithm does and uses very limited analogies/metaphors unless used as an introduction mechanism. You should not discuss how the functions or libraries work, the parameters you pass, etc..
+
+In your methodology, you will explain how your methods in your lit review are implemented and there should be no questions about how something should be done, what process to use, or a decision to make. This means the proposal requires considerable thought to outline for different possible ways the that the project can ultimately go. That may sound like more work, and it is, but the more thought you put into it, the more you will realize which possibilities can actually occur and which ones won't. 
+
 
 ## Libraries
 
@@ -62,7 +69,7 @@ In creating your proposal, you should keep in mind the SMART criteria:
 -   Relevant (to our program)
 -   Timeline
 
-These are not 5 separate points/sections, but at some point in the proposal each of these things will be addressed and satisfied. Before writing your proposal, I strongly recommend you create a single (run on) sentence which satisfies all of the SMART criteria for your proposal, and then build your proposal from that.
+These are not 5 separate points/sections, but at some point in the proposal each of these things will be addressed and satisfied. Before writing your proposal, I strongly recommend you create a single (run on) sentence which satisfies all of the SMART criteria for your proposal, and then build your proposal from that. It's very common to put the SMR criteria in the last paragraph of your introduction.
 
 Very often, at least one of these criteria are violated when the concept of a proposal is rejected or needs more work.
 
@@ -91,6 +98,16 @@ My biggest issue with this is whether this project can convey knowledge at a Mas
 In this example, the project was not **achievable**, may not have been **relevant**, and was not **measurable**.
 
 As a side note: I would generally not be involved with this as this is not my area. I can chat with you to help you find a good supervisor that is in this area, though.
+
+### Example
+
+**Bad example:** I will conduct further analysis to see which variables should be included to make the best possible model. 
+
+This is not **specific**, and therefore, not reproducible, which indirectly means there is no way of knowing if it is actually **achievable**. There's no sense of how many sources will be used to look for variables, when to stop looking, how to determine whether the variable "should" be included in the model, etc.. You have to propose *how* you will do each of these things and leave no doubt for how other hypothetical students would do it, and ensure they will come up with the same answer as someone else who does this proposal. 
+
+
+
+**Better:** This project will consider the following 11 variables outlined from [reference] as potentially influential in the outcome. Variables will be included by including any variable that remained in the fnial model when performing forward stepwise regression, as outlined in the literature review in section XX, as well LASSO, as outlined in the literature review in section YY. The union of variables that comes out of the final models from either method is included in time series analysis, described below.
 
 
 
@@ -160,16 +177,15 @@ I will typically limit how much time I spend reading/annotating a document you s
 
 ## Resources
 
-If you believe there is a difference in how you write and the quality of writing in technical documents like academic journals, you'll be expected to change your writing style to match. If you anticipate this is going to be a problem, begin working on this early, such as in your classes for assignments and projects, as well as your seminar reports. These are all excellent opportunities to obtain feedback about your writing (even if there's not a mark associated it for that particular document). Instructors likely don't have the time to edit your documents for you, but likely will be happy to give suggestions on how to improve your writing. It is up to the instructor's discretion on how much (if any) weight to assign to writing quality in courses and seminar. Please do not make the logical fallacy of concluding that a good mark in an assignment (not expressly meant to evaluate your writing quality) implies that level of writing would be appropriate for your final project/thesis. 
-The institution has a writing centre that will help you in improving your writing. I have observed students improve tremendously over several sessions when the session is approached correctly. The writing centre can teach you how to write better, which requires a commitment to learn how to critically appraise your own writing with their guidance to find where you need improvement and fixing your own writing. Treat the staff as educators that can teach you the skills you need to help you write better depending on your particular needs. Do not expect them to be editors that simply fix your writing for you. 
+If you believe there is a difference in how you write and the quality of writing in technical documents like academic journals, you'll be expected to change your writing style to match. If you anticipate this is going to be a problem, begin working on this early, such as in your classes for assignments and projects, as well as your seminar reports. These are all excellent opportunities to obtain feedback about your writing (even if there's not a mark associated it for that particular document). Instructors likely don't have the time to edit your documents for you, but likely will be happy to give suggestions on how to improve your writing. It is up to the instructor's discretion on how much (if any) weight to assign to writing quality in courses and seminar. Please do not make the logical fallacy of concluding that a good mark in an assignment (not expressly meant to evaluate your writing quality) implies that level of writing would be appropriate for your final project/thesis. The institution has a writing centre that will help you in improving your writing. I have observed students improve tremendously over several sessions when the session is approached correctly. The writing centre can teach you how to write better, which requires a commitment to learn how to critically appraise your own writing with their guidance to find where you need improvement and fixing your own writing. Treat the staff as educators that can teach you the skills you need to help you write better depending on your particular needs. Do not expect them to be editors that simply fix your writing for you.
 
-The one caveat I give is that they become *very* busy in the winter term when most students are approaching their deadlines. I would strongly suggest that your final project is not when you seek them, but much earlier than that such as during your coursework if you receive feedback that the quality of writing needs improvement. 
+The one caveat I give is that they become *very* busy in the winter term when most students are approaching their deadlines. I would strongly suggest that your final project is not when you seek them, but much earlier than that such as during your coursework if you receive feedback that the quality of writing needs improvement.
 
-If I suggest from your proposal that you would benefit from the writing centre, I expect you to learn from any feedback I give you, and seriously consider making an appointment with the writing centre to rectify writing issues so that you are not held back a semester. 
+If I suggest from your proposal that you would benefit from the writing centre, I expect you to learn from any feedback I give you, and seriously consider making an appointment with the writing centre to rectify writing issues so that you are not held back a semester.
 
 # Proposal evaluation criteria
 
-While not a binding document, you're encouraged to look (in the menu) at the proposal checklist   of things that I look for when evaluating a proposal or final project or thesis.
+While not a binding document, you're encouraged to look (in the menu) at the proposal checklist of things that I look for when evaluating a proposal or final project or thesis.
 
 ```{=html}
 <!--
