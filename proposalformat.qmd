@@ -102,6 +102,10 @@ The student will state as an additional section in their proposal that they agre
 -   Three consecutive progress reports are concerning/unacceptable
 -   An academic integrity violation is suspected by the supervisor and suspected by at least one other faculty member.
 
+# Financial agreements
+
+If certain funds have been allocated, state them here, under what conditions they were given and if necessary, a repayment plan if supervision is withdrawn.
+
 # Outcomes of project
 
 I like the idea of there being clear expectations of what happens to the final result of the project. If the project is being published (e.g., an R package, or a journal publication) what is the order of authorship, who owns data, etc..
