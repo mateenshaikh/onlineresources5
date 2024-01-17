@@ -20,6 +20,10 @@ Your proposal should have the following document sections
 
 # Introduction
 
+## Research Question (1--2 sentences)
+Please include as the opening, a single section tht will be one to two sentences explaining the research problem. I require the specific and measurable aspects of the SMART criteria to be used here. Identify your data, your methods, and what you're trying to calculte/answer/address.
+
+
 Your introduction should be (1--2 pages).
 
 -   If the main goal is to analyze a particular data set, motivate the context (a few sentences) of how that data is generated and what kind of problem will be solved or what insight you wish to gain from it..
@@ -30,6 +34,7 @@ Your introduction should be (1--2 pages).
 -   Identify/describe of all variables. You must identify the type of variable. You must also know what each variable is in the context of the problem; it can't just be just another feature you use to train an algorithm.
 -   Continuous variables should indicate units
 -   Ordinal and nominal variables should at least identify the number of levels, and all levels if there are only a few and an example of a few if there are more a - If relevant to the investigation, an approximate distribution of each variable, using an appropriate method of summarizing. This may be extended to correlations
+
 
 # Lit review
 
@@ -54,6 +59,14 @@ The methods should include the specific implementation of the algorithm. E.g., a
 Simulation studies will identify exactly which parameters of the simulation will be investigated, which values will be fixed, and any corresponding assumptions.
 
 A thesis which develops *new* methods will have a much longer methodology section because nothing exists to solve the problem at hand, so you propose to develop it in in this section, and the development is part of the instructions to the student. But because this is a proposal, you don't actually perform the derivations here, you write a skeleton of how you plan to perform the derivation using elements of the lit review.
+
+## Method of analysis
+
+You should include what summary methods you will use to convey your results results to yourself and your audience.
+  - If tables, identify every column/row
+  - If a kind of graph, identify the kind of plot including axes and units. Does it include all the relevent dimensions of your project/thesis? If not, how will you convey all of that information?
+
+
 
 # Timeline
 
