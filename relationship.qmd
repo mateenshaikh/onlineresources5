@@ -1,0 +1,17 @@
+---
+  title: "Student Supervisor Relationship"
+format:
+  html: default
+pdf: default
+docx: default
+format-links: [html,pdf,docx]
+---
+# Supervisor Expectations
+  
+# Student Expectations
+  
+# Anticipated outcomes and appropriate authorship
+-   [ ] For thesis, authorship, intended type of journal
+-   [ ] For software, where it's disseminated
+
+
