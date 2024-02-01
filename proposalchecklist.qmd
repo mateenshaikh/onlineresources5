@@ -30,7 +30,7 @@ checkboxsymbol=ifelse (knitr::is_html_output(),
 
 # Style
 
--   [ ] Equations typeset, quantities explained
+-   [ ] Equations typeset, quantities defined/explained
 -   [ ] In-text content appropriately type-set
 -   [ ] Figures/tables referenced in text and appropriately captioned
 -   [ ] Appropriate use of sections, subsections, etc., and content respects corresponding structure
