@@ -9,19 +9,19 @@ format-links: [html,pdf,docx]
 
 The relationship depends on the nature and level of the student and project. An undergrad RA will have far more guidance and frequent meetings than a Master's project. 
 
-At the undergraduate level, the project is the supervisor's project so the supervisor is active/directive and the student is typically responsive and productive.
+At the undergraduate level, or for an RA, the project is the supervisor's project so the supervisor is active/directive and the student is typically responsive and productive.
 
-At the graduate level, the rpoject is the student's project, so the student is active and suggestions direction with the supervisor approving/guiding/redirecting as appropriate.
+At the graduate level, the project is the student's project, so the student is active and suggets direction, with the supervisor approving/guiding/redirecting as appropriate. I will be minimally involved.
 
 
 
 # Supervisor Expectations
-  
+  - 
 # Student Expectations
   
 # Meeting frequency
 
-## Developing propsal: 
+## Developing proposal: 
     - weekly
     - student takes minutes which are followed
     - 
