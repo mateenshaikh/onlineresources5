@@ -123,6 +123,8 @@ If certain funds have been allocated, state them here, under what conditions the
 
 I like the idea of there being clear expectations of what happens to the final result of the project. If the project is being published (e.g., an R package, or a journal publication) what is the order of authorship, who owns data, etc..
 
+If the student doesn't submit the work for publication before the end of the degree, the student agrees that the work can continue after the degree for publication purposes. If the student is less interested in the publication after the degree, the student should remain in contact to maintain authorship, but if another individual performs a large chunk of work leading to the final submission, that individual will become first author. If the student becomes unresponsive in a reasonable timeframe or contact information is invalid, the student may lose authorship. 
+
 My personal approach is that students are first author if they've done the writing. If I have to heavily edit or rewrite your thesis to make it acceptable quality for publication, you lose the prestigious status of first-author, which I would have preferred you to have. I also may not have the time or interest to do that so it may simply not be published at all and what could have doubly benefited you has been wasted. This is another reason the quality of writing is important.
 
 This section does not have to be in the proposal, but I like it here so that we know it's officially documented and signed off on.
